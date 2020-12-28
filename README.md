@@ -16,4 +16,4 @@ pip install markdown
 Thanks to the contributers:
 - Hanane Raziq at @hananeRaziq
 - Vanessa Ferrando at @VanessaFer
-- Martina Verardi at @Shady96
+- Martina Verardi at @MartinaVerardi
